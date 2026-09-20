@@ -28,9 +28,17 @@ Multi-tenant project management REST API.
 - Projects, members, tasks, comments, and task history
 - xUnit integration tests, Docker, and GitHub Actions CI
 
-### CoMentor
+### CoMentor — Private Project
 
-Private full-stack education/coaching platform. Source is not public.
+Full-stack student–teacher coaching and school management platform developed with ASP.NET Core.
+
+- Student, teacher, counselor, and administrator workflows
+- Exam analysis, study planning, assignments, announcements, and academic tracking
+- Weekend study scheduling and reporting
+- AI-assisted coaching features
+- Responsive web interface and role-based access
+
+> Source code is private.
 
 ### [PlayMaker](https://github.com/enessoydan33/PlayMaker)
 
