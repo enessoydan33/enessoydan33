@@ -1,103 +1,56 @@
-# Merhaba, ben Enes Soydan
+# Hi, I'm Enes Soydan
 
-**Bilgisayar Mühendisliği Mezunu | Junior Backend Developer**
+Computer Engineering graduate focused on .NET backend and full-stack web development.
 
-ASP.NET Core ve C# ağırlıklı backend geliştirme üzerine çalışıyorum. REST API, ilişkisel veritabanları, authentication/authorization ve Docker tabanlı geliştirme ortamlarında proje deneyimim bulunuyor.
+I build REST APIs and web applications with ASP.NET Core, relational databases, authentication/authorization, and Docker.
 
-## Hakkımda
+Open to junior software engineer, .NET backend, and full-stack roles.
 
-- Bilgisayar Mühendisliği mezunuyum.
-- ASP.NET Core / C# backend geliştirme üzerine yoğunlaşıyorum.
-- EF Core, REST API, authentication/authorization ve relational database deneyimim var.
-- PostgreSQL, SQL Server ve MySQL ile çalıştım; Docker kullanıyorum.
-- Backend yanında Linux, system administration, networking ve cyber security fundamentals alanlarında kendimi geliştiriyorum.
+## Tech Stack
 
-Türkiye'deki ve remote Junior Backend / .NET Developer fırsatlarına açığım.
+**Backend:** C#, ASP.NET Core, Entity Framework Core, REST APIs, JWT, ASP.NET Core Identity
 
-## Teknolojiler
+**Frontend:** React, TypeScript, JavaScript, Razor, HTML/CSS
 
-### Backend
-C# · ASP.NET Core · .NET · Entity Framework Core · REST API · PHP
+**Databases:** PostgreSQL, SQL Server, MySQL
 
-### Veritabanı
-PostgreSQL · SQL Server · MySQL
+**Tools:** Docker, Git, GitHub Actions
 
-### Frontend
-HTML · CSS · JavaScript · React · TypeScript · Bootstrap · Tailwind CSS
+## Featured Projects
 
-### Araçlar
-Docker · Docker Compose · Git · GitHub · Visual Studio · VS Code
+### [CompanyMng](https://github.com/enessoydan33/CompanyMng)
 
-## Öne Çıkan Projeler
+Multi-tenant project management REST API.
 
-### PlayMaker
+- ASP.NET Core 9 Web API, EF Core, PostgreSQL
+- JWT authentication with hashed refresh-token rotation and revocation
+- Admin/User authorization and company-level tenant isolation
+- Projects, members, tasks, comments, and task history
+- xUnit integration tests, Docker, and GitHub Actions CI
 
-ASP.NET Core MVC ile geliştirilmiş futbol veri ve analiz uygulaması.
+### CoMentor
 
-- ASP.NET Core MVC, C#, EF Core ve PostgreSQL
-- ASP.NET Core Identity ile authentication
-- External API integrations (SofaScore / CollectAPI)
-- Caching
-- League standings, top scorers, player search ve market values
-- Football news
-- AI Scout / Wonderkids: Football Manager oyuncu verilerini custom filtering ve scoring logic ile işleyerek genç oyuncuları sıralayan veri işleme özelliği
+Private full-stack education/coaching platform. Source is not public.
 
-[Projeyi İncele](https://github.com/enessoydan33/PlayMaker)
+### [PlayMaker](https://github.com/enessoydan33/PlayMaker)
 
-### CoMentor — Eğitim ve Öğrenci Koçluk Platformu
+Football data web app built with ASP.NET Core MVC, EF Core, PostgreSQL, and Identity.
 
-**Private proje · Canlı ortamda çalışıyor**
+- League standings, top scorers, player search, and news via third-party APIs
+- Comments, caching, and a Football Manager dataset ranking module (filtering/scoring, not a trained ML model)
 
-Öğrenci, öğretmen, rehber öğretmen, müdür, veli ve sistem yöneticisi gibi farklı kullanıcı rollerine yönelik geliştirilmiş eğitim ve öğrenci koçluk platformu.
+### [AppNot](https://github.com/enessoydan33/AppNot)
 
-Mimari:
-`ASP.NET Core MVC → BFF / Proxy Layer → JWT-secured ASP.NET Core Web API → PostgreSQL`
+Note-taking and polling app with ASP.NET Core MVC, Identity, EF Core, and SQL Server.
 
-- Rol bazlı paneller ve iş akışları (öğrenci, öğretmen/rehber, müdür, veli, sistem yöneticisi)
-- ASP.NET Core MVC BFF/proxy katmanı üzerinden REST API entegrasyonu
-- Session ile yönetilen Bearer token authentication akışı
-- PdfPig ile deneme PDF parsing/upload
-- QuestPDF ile PDF rapor üretimi
-- Öğrenci performansı, deneme analizi, çalışma programı ve etüt/tutoring workflows
-- Docker ve GitHub Actions ile deployment
-- API tarafında AI-assisted weekly study plan generation
+- Per-user notes, tags, and polls
+- Ownership checks and anti-forgery protection on updates
 
-> Uygulama deploy edilmiş ve canlı ortamda çalışmaktadır. Kaynak kodu private olduğu için herkese açık değildir.
+### [PHP MySQL Customer CRUD](https://github.com/enessoydan33/php-mysql-customer-crud)
 
-### AppNot
+Smaller Dockerized PHP/MySQL CRUD app with session auth, prepared statements, CSRF protection, and XSS-safe output.
 
-ASP.NET Core MVC ile geliştirilmiş kullanıcı bazlı not ve anket uygulaması.
+## Connect
 
-- ASP.NET Core 8 MVC, C#, EF Core ve SQL Server
-- ASP.NET Core Identity
-- Repository Pattern
-- Notes CRUD, tags ve polls/voting
-- Authorization ve ownership checks
-- Anti-forgery / CSRF koruması
-
-[Projeyi İncele](https://github.com/enessoydan33/AppNot)
-
-### PHP MySQL Customer CRUD
-
-Framework kullanmadan geliştirilmiş Docker tabanlı PHP/MySQL müşteri yönetim uygulaması.
-
-- Vanilla PHP, MySQL ve Apache
-- Docker Compose ve phpMyAdmin
-- mysqli prepared statements
-- Session authentication ve password_hash / password_verify
-- CSRF koruması ve XSS-safe escaping
-- User-specific CRUD / ownership
-- Tailwind CSS v4 ve jQuery
-
-[Projeyi İncele](https://github.com/enessoydan33/php-mysql-customer-crud)
-
-## Şu Anda Odaklandığım Alanlar
-
-- ASP.NET Core ile backend geliştirme
-- Docker ve Linux
-- Networking ve system administration
-- Cyber security fundamentals
-
-## İletişim
-
-- GitHub: [enessoydan33](https://github.com/enessoydan33)
+- [LinkedIn](https://www.linkedin.com/in/enes-soydan-36a679350/)
+- [GitHub](https://github.com/enessoydan33)
